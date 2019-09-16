@@ -1,0 +1,28 @@
+h1 {
+	color: red;
+}
+h2 {
+	/* <percentage> values */
+	font-size: 150%;
+	/* <named-color> values*/
+	color: rebeccapurple;
+}
+ul{
+	/* <percentage> values */
+	font-size: 150%;
+	/* <named-color> values */
+	color: red;
+}
+ol{
+	/* <percentage> values */
+	font-size: 150%;
+	/* named-color> values */
+	color: red;
+}
+body{ /* keyword values */
+	background-color: silver;
+
+}
+img{ /* <percentage> values */
+	width: 15%;
+}
